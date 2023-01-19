@@ -35,6 +35,12 @@ img {
   line-height: 26px;
   color: #6c6c6c !important;
 }
+.slider-btn {
+  padding: 10px 43px;
+  border-radius: 5px;
+  color: #3f87f5;
+  font-weight: 700;
+}
 /* wedding */
 .wedding-btn {
   font-weight: 700;
